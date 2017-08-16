@@ -8,6 +8,3 @@ These features were compiled into a table and saved in a pickle file.
 
 # views.py
 This file shows the inner workings of the recommender web application (http://thepicc.science).
-
-# About
-I created this web application as part of the Insight Data Science Fellowship. 
